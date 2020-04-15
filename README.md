@@ -34,9 +34,5 @@ auto/configure \
     --with-mail_ssl_module \
     --with-stream \
     --with-stream_ssl_module \
-    --with-threads \
     --add-module=nginx-rtmp-module \
-    
-    
-    
     
